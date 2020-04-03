@@ -2,7 +2,7 @@
 
 **Type:** Academic Project for the course of *Managing Relational And Non-Relational Databases*
 
-**Group:** Francisco Costa, João Gouveia, Pedro Riveira, Nuno Rocha
+**Group:** Francisco Costa, João Gouveia, Pedro Rivera, Nuno Rocha
 
 **Programming Languages and Technologies:** T-SQL, SQL Server Management Studio
 
