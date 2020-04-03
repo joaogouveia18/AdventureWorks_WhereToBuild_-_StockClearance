@@ -1,4 +1,4 @@
-# AdventureWorks_WhereToBuild_-_StockClearance
+# AdventureWorks_WhereToBuild_And_StockClearance
 
 **Type:** Academic Project for the course of *Managing Relational And Non-Relational Databases*
 
